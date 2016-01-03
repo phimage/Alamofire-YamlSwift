@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AAB3A36C1F35241B6B104590 /* Pods_AlamofireYamlSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D20E1415D01C3376EF6559E /* Pods_AlamofireYamlSwift.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		AAB3A36C1F35241B6B104590 /* Pods_AlamofireYamlSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D20E1415D01C3376EF6559E /* Pods_AlamofireYamlSwift.framework */; };
 		C4EBAA561BD4DD770033ED7E /* Alamofire-YamlSwift.h in Headers */ = {isa = PBXBuildFile; fileRef = C4EBAA551BD4DD770033ED7E /* Alamofire-YamlSwift.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C4EBAA5D1BD4DD770033ED7E /* AlamofireYamlSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4EBAA521BD4DD770033ED7E /* AlamofireYamlSwift.framework */; settings = {ASSET_TAGS = (); }; };
+		C4EBAA5D1BD4DD770033ED7E /* AlamofireYamlSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4EBAA521BD4DD770033ED7E /* AlamofireYamlSwift.framework */; };
 		C4EBAA621BD4DD770033ED7E /* Alamofire_YamlSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4EBAA611BD4DD770033ED7E /* Alamofire_YamlSwiftTests.swift */; };
-		C4EBAA6D1BD4DDED0033ED7E /* Alamofire+YamlSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4EBAA6C1BD4DDED0033ED7E /* Alamofire+YamlSwift.swift */; settings = {ASSET_TAGS = (); }; };
+		C4EBAA6D1BD4DDED0033ED7E /* Alamofire+YamlSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4EBAA6C1BD4DDED0033ED7E /* Alamofire+YamlSwift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
